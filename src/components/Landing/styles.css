@@ -1,0 +1,31 @@
+.main-background{
+    color: black;
+}
+.main-avatar img{
+    border-radius: 100px;
+    width: 120px;
+    height: 120px;
+    border:solid #0447aa;
+    margin-top: 10px;
+}
+.main-background h1{
+    color: white;
+    text-shadow: 1px 1px 4px #484444;
+}
+
+.header h2{
+    background: #11998e;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #38ef7d, #11998e);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #38ef7d, #11998e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+color: white;
+text-shadow: 1px 1px 4px black;
+font-weight: bold;  
+width: 90%;
+margin: auto;
+height: 50px;
+text-align: center;
+font-size: 30px;
+line-height: 1.5;
+border-radius: 10px;
+}
